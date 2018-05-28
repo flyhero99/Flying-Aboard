@@ -2,7 +2,7 @@
 
 ## What's this
 ```
-我叫Aaron，于四年前开始准备出国，期间经历种种变动，终将于2018年9月飞往美国开始新的学习生涯。
+我叫Aaron，四年前开始准备出国，期间经历种种变动，终将于2018年9月飞往美国开始新的学习生涯。
 
 之前自己在Github上fork了一个FLY_US的项目，在复习备考的过程中颇有受益。故而在自己的申请季结束之后，打算回馈社会，把自己在复习和申请过程中用到的一些自己觉得有用的资料也分享出来，希望能给后来人一些帮助。另外也是为了抛砖引玉，让其他更加优秀的人把其优质的资源分享出来，给大家使用。
 ```
@@ -15,8 +15,8 @@
 
 ## 常用网站
 ```
-[托福考满分]: https://toefl.kmf.com/practice)
-[一亩三分地]: http://www.1point3acres.com/bbs/)
+[托福考满分]: https://toefl.kmf.com/practice
+[一亩三分地]: http://www.1point3acres.com/bbs/
 ```
 ## Reference
     [FLY_US]:https://github.com/hot13399/FLY_US
