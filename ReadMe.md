@@ -26,9 +26,9 @@
 ```
 ### 香港
 #### 港大
-[学校官网]: https://www.hku.hk/
-[CS Research Groups]: http://www.cs.hku.hk/research/group.jsp
-[CS Department]:https://www.cs.hku.hk/
+>[学校官网]: https://www.hku.hk/
+>[CS Research Groups]: http://www.cs.hku.hk/research/group.jsp
+>[CS Department]:https://www.cs.hku.hk/
 #### 港科
 [学校官网]:/http://www.ust.hk/
 [CS PhD提前批申请（暂时不可用）]:http://www.cse.ust.hk/pg/admissions/registration/
